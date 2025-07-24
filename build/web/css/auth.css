@@ -1,0 +1,77 @@
+/* auth.css - Shared styles for login and register pages */
+.auth-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 2rem;
+}
+
+.auth-card {
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.auth-card-header {
+    background-color: #f05462;
+    color: white;
+    font-weight: 600;
+    border-radius: 10px 10px 0 0 !important;
+    padding: 1.5rem;
+    text-align: center;
+}
+
+.auth-form {
+    padding: 2rem;
+}
+
+.form-control {
+    padding: 0.75rem;
+    border-radius: 8px;
+    border: 1px solid #ddd;
+    margin-bottom: 1rem;
+}
+
+.btn-danger {
+    background-color: #f05462;
+    border-color: #f05462;
+    padding: 0.75rem;
+    border-radius: 8px;
+    font-weight: 500;
+    width: 100%;
+}
+
+.btn-danger:hover {
+    background-color: #d84351;
+    border-color: #d84351;
+}
+
+.forgot-password {
+    color: #6c757d;
+    text-align: center;
+    display: block;
+    margin-top: 1rem;
+}
+
+.forgot-password:hover {
+    color: #f05462;
+    text-decoration: none;
+}
+
+.modal-header {
+    border-bottom: none;
+    padding-bottom: 0;
+}
+
+.modal-footer {
+    border-top: none;
+    padding-top: 0;
+}
+
+@media (max-width: 576px) {
+    .auth-card-header {
+        padding: 1rem;
+    }
+    
+    .form-control, .btn-danger {
+        padding: 0.6rem;
+    }
+}
