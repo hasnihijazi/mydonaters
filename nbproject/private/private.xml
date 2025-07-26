@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/hasni/OneDrive/Documents/NetBeansProjects/MyDonaters/web/css/member_donation.css</file>
+            <file>file:/C:/Users/hasni/OneDrive/Documents/NetBeansProjects/MyDonaters/src/java/com/mydonaters/util/DBUtil.java</file>
+            <file>file:/C:/Users/hasni/OneDrive/Documents/NetBeansProjects/MyDonaters/web/css/style.css</file>
+            <file>file:/C:/Users/hasni/OneDrive/Documents/NetBeansProjects/MyDonaters/src/java/com/mydonaters/dao/DashboardDAOImpl.java</file>
+            <file>file:/C:/Users/hasni/OneDrive/Documents/NetBeansProjects/MyDonaters/src/java/com/mydonaters/servlets/MemberDetailServlet.java</file>
+            <file>file:/C:/Users/hasni/OneDrive/Documents/NetBeansProjects/MyDonaters/src/java/com/mydonaters/servlets/DonationServlet.java</file>
+            <file>file:/C:/Users/hasni/OneDrive/Documents/NetBeansProjects/MyDonaters/web/css/auth.css</file>
+            <file>file:/C:/Users/hasni/OneDrive/Documents/NetBeansProjects/MyDonaters/src/java/com/mydonaters/servlets/DeleteMemberServlet.java</file>
+            <file>file:/C:/Users/hasni/OneDrive/Documents/NetBeansProjects/MyDonaters/web/admin_donation.jsp</file>
+            <file>file:/C:/Users/hasni/OneDrive/Documents/NetBeansProjects/MyDonaters/nbproject/build-impl.xml</file>
+            <file>file:/C:/Users/hasni/OneDrive/Documents/NetBeansProjects/MyDonaters/src/java/com/mydonaters/dao/DonationDAO.java</file>
+            <file>file:/C:/Users/hasni/OneDrive/Documents/NetBeansProjects/MyDonaters/web/member_detail.jsp</file>
+            <file>file:/C:/Users/hasni/OneDrive/Documents/NetBeansProjects/MyDonaters/src/java/com/mydonaters/beans/Donation.java</file>
+            <file>file:/C:/Users/hasni/OneDrive/Documents/NetBeansProjects/MyDonaters/src/java/com/mydonaters/servlets/LogoutServlet.java</file>
+            <file>file:/C:/Users/hasni/OneDrive/Documents/NetBeansProjects/MyDonaters/src/java/com/mydonaters/dao/MemberDAO.java</file>
+            <file>file:/C:/Users/hasni/OneDrive/Documents/NetBeansProjects/MyDonaters/web/admin_edit_donation.jsp</file>
+            <file>file:/C:/Users/hasni/OneDrive/Documents/NetBeansProjects/MyDonaters/web/member_donation.jsp</file>
+            <file>file:/C:/Users/hasni/OneDrive/Documents/NetBeansProjects/MyDonaters/src/java/com/mydonaters/servlets/PaymentServlet.java</file>
+            <file>file:/C:/Users/hasni/OneDrive/Documents/NetBeansProjects/MyDonaters/src/java/com/mydonaters/dao/PaymentDAOImpl.java</file>
+            <file>file:/C:/Users/hasni/OneDrive/Documents/NetBeansProjects/MyDonaters/src/java/com/mydonaters/beans/Member.java</file>
+            <file>file:/C:/Users/hasni/OneDrive/Documents/NetBeansProjects/MyDonaters/src/java/com/mydonaters/dao/MemberDAOImpl.java</file>
+            <file>file:/C:/Users/hasni/OneDrive/Documents/NetBeansProjects/MyDonaters/src/java/com/mydonaters/servlets/DeleteDonationServlet.java</file>
+            <file>file:/C:/Users/hasni/OneDrive/Documents/NetBeansProjects/MyDonaters/src/java/com/mydonaters/servlets/MemberDetailInfoServlet.java</file>
+            <file>file:/C:/Users/hasni/OneDrive/Documents/NetBeansProjects/MyDonaters/web/index.jsp</file>
+            <file>file:/C:/Users/hasni/OneDrive/Documents/NetBeansProjects/MyDonaters/src/java/com/mydonaters/dao/PaymentDAO.java</file>
+            <file>file:/C:/Users/hasni/OneDrive/Documents/NetBeansProjects/MyDonaters/src/java/com/mydonaters/servlets/AdminDonationServlet.java</file>
+            <file>file:/C:/Users/hasni/OneDrive/Documents/NetBeansProjects/MyDonaters/web/css/member_detail_info.css</file>
+            <file>file:/C:/Users/hasni/OneDrive/Documents/NetBeansProjects/MyDonaters/web/register.jsp</file>
+            <file>file:/C:/Users/hasni/OneDrive/Documents/NetBeansProjects/MyDonaters/web/css/member_payment.css</file>
+            <file>file:/C:/Users/hasni/OneDrive/Documents/NetBeansProjects/MyDonaters/src/java/com/mydonaters/dao/DonationDAOImpl.java</file>
+            <file>file:/C:/Users/hasni/OneDrive/Documents/NetBeansProjects/MyDonaters/web/member_detail_info.jsp</file>
+            <file>file:/C:/Users/hasni/OneDrive/Documents/NetBeansProjects/MyDonaters/src/java/com/mydonaters/servlets/UpdateMemberServlet.java</file>
+            <file>file:/C:/Users/hasni/OneDrive/Documents/NetBeansProjects/MyDonaters/src/java/com/mydonaters/servlets/LoginServlet.java</file>
+            <file>file:/C:/Users/hasni/OneDrive/Documents/NetBeansProjects/MyDonaters/web/css/member_detail.css</file>
+            <file>file:/C:/Users/hasni/OneDrive/Documents/NetBeansProjects/MyDonaters/src/java/com/mydonaters/servlets/RegisterServlet.java</file>
+            <file>file:/C:/Users/hasni/OneDrive/Documents/NetBeansProjects/MyDonaters/web/member_payment.jsp</file>
+            <file>file:/C:/Users/hasni/OneDrive/Documents/NetBeansProjects/MyDonaters/web/css/admin_donation.css</file>
+            <file>file:/C:/Users/hasni/OneDrive/Documents/NetBeansProjects/MyDonaters/web/css/styles.css</file>
+            <file>file:/C:/Users/hasni/OneDrive/Documents/NetBeansProjects/MyDonaters/src/java/com/mydonaters/servlets/EditMemberServlet.java</file>
+            <file>file:/C:/Users/hasni/OneDrive/Documents/NetBeansProjects/MyDonaters/src/java/com/mydonaters/servlets/DonationListServlet.java</file>
+            <file>file:/C:/Users/hasni/OneDrive/Documents/NetBeansProjects/MyDonaters/web/member_edit.jsp</file>
+            <file>file:/C:/Users/hasni/OneDrive/Documents/NetBeansProjects/MyDonaters/src/java/com/mydonaters/servlets/EditDonationServlet.java</file>
+            <file>file:/C:/Users/hasni/OneDrive/Documents/NetBeansProjects/MyDonaters/src/java/com/mydonaters/dao/DashboardDAO.java</file>
+            <file>file:/C:/Users/hasni/OneDrive/Documents/NetBeansProjects/MyDonaters/web/css/dashboard.css</file>
+            <file>file:/C:/Users/hasni/OneDrive/Documents/NetBeansProjects/MyDonaters/web/images/donnaterslogo.png</file>
+            <file>file:/C:/Users/hasni/OneDrive/Documents/NetBeansProjects/MyDonaters/web/dashboard.jsp</file>
+            <file>file:/C:/Users/hasni/OneDrive/Documents/NetBeansProjects/MyDonaters/src/java/com/mydonaters/servlets/DashboardServlet.java</file>
+        </group>
+    </open-files>
+</project-private>

@@ -1,0 +1,222 @@
+/* member_donation.css - Styles for member donation page */
+body {
+    background: #f5f5f5;
+}
+
+.btn {
+    background: #f05462;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: all 0.3s ease;
+    width: 100%;
+    max-width: 200px;
+    margin-top: 20px;
+}
+
+.btn:hover {
+    background: #d43f4d;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.side-menu {
+    position: fixed;
+    background: #f05462;
+    width: 250px;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 2px 0 10px rgba(0,0,0,0.1);
+}
+
+.side-menu .brand-name {
+    padding: 20px;
+    border-bottom: 1px solid rgba(255,255,255,0.1);
+}
+
+.side-menu ul {
+    padding: 20px 0;
+}
+
+.side-menu li {
+    padding: 12px 25px;
+    color: white;
+    display: flex;
+    align-items: center;
+    transition: all 0.3s ease;
+    margin: 5px 0;
+}
+
+.side-menu li:hover {
+    background: rgba(255,255,255,0.2);
+}
+
+.side-menu li a {
+    color: white;
+    display: flex;
+    align-items: center;
+    width: 100%;
+}
+
+.container {
+    margin-left: 250px;
+    width: calc(100% - 250px);
+    min-height: 100vh;
+}
+
+.header {
+    background: white;
+    padding: 15px 30px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+    display: flex;
+    justify-content: flex-end;
+}
+
+.user {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.user svg {
+    width: 24px;
+    height: 24px;
+}
+
+.content {
+    padding: 30px;
+}
+
+.donation-form {
+    background: white;
+    border-radius: 10px;
+    padding: 30px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: 500;
+    color: #555;
+}
+
+input[type="date"],
+input[type="number"],
+input[type="text"] {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    font-size: 15px;
+}
+
+input[name="remarks"] {
+    margin-top: 10px;
+}
+
+input[type="date"] {
+    margin-bottom: 20px;
+}
+
+fieldset {
+    background: #fafafa;
+    border: 1px solid #ddd;
+    padding: 25px 20px;
+}
+
+legend {
+    padding: 0 10px;
+    color: #666;
+    font-weight: 500;
+}
+
+.item-row {
+    display: grid;
+    grid-template-columns: auto 100px;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 16px;
+}
+
+.item-checkbox {
+    display: flex;
+    align-items: center;
+    flex: 1;
+}
+
+.item-checkbox label {
+    margin-bottom: 0;
+    cursor: pointer;
+}
+
+.quantity-input {
+    width: 80px;
+}
+
+.submit-btn {
+    text-align: center;
+}
+
+.radio-group p {
+    font-weight: 500;
+    color: #555;
+    margin-bottom: 8px;
+}
+
+.radio-group label {
+    margin-right: 15px;
+    font-size: 15px;
+    color: #444;
+    cursor: pointer;
+}
+
+.radio-group input[type="radio"] {
+    margin-right: 6px;
+}
+
+@media (max-width: 768px) {
+    .side-menu {
+        width: 200px;
+    }
+    .container {
+        margin-left: 200px;
+        width: calc(100% - 200px);
+    }
+}
+
+@media (max-width: 576px) {
+    .side-menu {
+        width: 70px;
+    }
+    .side-menu li span {
+        display: none;
+    }
+    .container {
+        margin-left: 70px;
+        width: calc(100% - 70px);
+    }
+    .donation-form {
+        padding: 20px;
+    }
+}
+
+ .success-message {
+    background-color: #d4edda;
+    color: #155724;
+    border: 1px solid #c3e6cb;
+    padding: 12px;
+    border-radius: 6px;
+    margin-bottom: 15px;
+    font-weight: 500;
+}
